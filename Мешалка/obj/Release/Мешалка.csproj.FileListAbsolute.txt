@@ -1,0 +1,25 @@
+C:\Users\Максим\documents\visual studio 2017\Projects\Мешалка\Мешалка\bin\Release\Мешалка.exe.config
+C:\Users\Максим\documents\visual studio 2017\Projects\Мешалка\Мешалка\bin\Release\Мешалка.exe
+C:\Users\Максим\documents\visual studio 2017\Projects\Мешалка\Мешалка\bin\Release\Мешалка.pdb
+C:\Users\Максим\documents\visual studio 2017\Projects\Мешалка\Мешалка\obj\Release\Мешалка.Form1.resources
+C:\Users\Максим\documents\visual studio 2017\Projects\Мешалка\Мешалка\obj\Release\Мешалка.Properties.Resources.resources
+C:\Users\Максим\documents\visual studio 2017\Projects\Мешалка\Мешалка\obj\Release\Мешалка.csproj.GenerateResource.Cache
+C:\Users\Максим\documents\visual studio 2017\Projects\Мешалка\Мешалка\obj\Release\Мешалка.exe
+C:\Users\Максим\documents\visual studio 2017\Projects\Мешалка\Мешалка\obj\Release\Мешалка.pdb
+C:\Users\Максим\Desktop\Мешалка\Мешалка\bin\Release\Мешалка.exe.config
+C:\Users\Максим\Desktop\Мешалка\Мешалка\obj\Release\Мешалка.exe
+C:\Users\Максим\Desktop\Мешалка\Мешалка\obj\Release\Мешалка.pdb
+C:\Users\Максим\Desktop\Мешалка\Мешалка\bin\Release\Мешалка.exe
+C:\Users\Максим\Desktop\Мешалка\Мешалка\bin\Release\Мешалка.pdb
+C:\Users\Максим\Desktop\Мешалка\Мешалка\obj\Release\Мешалка.Form1.resources
+C:\Users\Максим\Desktop\Мешалка\Мешалка\obj\Release\Мешалка.Properties.Resources.resources
+C:\Users\Максим\Desktop\Мешалка\Мешалка\obj\Release\Мешалка.csproj.GenerateResource.Cache
+D:\IDE\Users\Максим\Desktop\Мешалка\Мешалка\bin\Release\Мешалка.exe.config
+D:\IDE\Users\Максим\Desktop\Мешалка\Мешалка\obj\Release\Мешалка.exe
+D:\IDE\Users\Максим\Desktop\Мешалка\Мешалка\obj\Release\Мешалка.pdb
+D:\IDE\Users\Максим\Desktop\Мешалка\Мешалка\obj\Release\Мешалка.csprojResolveAssemblyReference.cache
+D:\IDE\Users\Максим\Desktop\Мешалка\Мешалка\obj\Release\Мешалка.Form1.resources
+D:\IDE\Users\Максим\Desktop\Мешалка\Мешалка\obj\Release\Мешалка.Properties.Resources.resources
+D:\IDE\Users\Максим\Desktop\Мешалка\Мешалка\obj\Release\Мешалка.csproj.GenerateResource.Cache
+D:\IDE\Users\Максим\Desktop\Мешалка\Мешалка\bin\Release\Мешалка.exe
+D:\IDE\Users\Максим\Desktop\Мешалка\Мешалка\bin\Release\Мешалка.pdb

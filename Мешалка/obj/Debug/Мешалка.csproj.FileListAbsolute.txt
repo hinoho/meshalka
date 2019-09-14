@@ -1,0 +1,72 @@
+c:\users\максим\documents\visual studio 2017\Projects\Мешалка\Мешалка\bin\Debug\Мешалка.exe.config
+c:\users\максим\documents\visual studio 2017\Projects\Мешалка\Мешалка\bin\Debug\Мешалка.exe
+c:\users\максим\documents\visual studio 2017\Projects\Мешалка\Мешалка\bin\Debug\Мешалка.pdb
+c:\users\максим\documents\visual studio 2017\Projects\Мешалка\Мешалка\obj\Debug\Мешалка.csprojResolveAssemblyReference.cache
+c:\users\максим\documents\visual studio 2017\Projects\Мешалка\Мешалка\obj\Debug\Мешалка.Form1.resources
+c:\users\максим\documents\visual studio 2017\Projects\Мешалка\Мешалка\obj\Debug\Мешалка.Properties.Resources.resources
+c:\users\максим\documents\visual studio 2017\Projects\Мешалка\Мешалка\obj\Debug\Мешалка.csproj.GenerateResource.Cache
+c:\users\максим\documents\visual studio 2017\Projects\Мешалка\Мешалка\obj\Debug\Мешалка.exe
+c:\users\максим\documents\visual studio 2017\Projects\Мешалка\Мешалка\obj\Debug\Мешалка.pdb
+C:\Users\Максим\Desktop\Мешалка\Мешалка\bin\Debug\Мешалка.exe.config
+C:\Users\Максим\Desktop\Мешалка\Мешалка\obj\Debug\Мешалка.exe
+C:\Users\Максим\Desktop\Мешалка\Мешалка\obj\Debug\Мешалка.pdb
+C:\Users\Максим\Desktop\Мешалка\Мешалка\bin\Debug\Мешалка.exe
+C:\Users\Максим\Desktop\Мешалка\Мешалка\bin\Debug\Мешалка.pdb
+C:\Users\Максим\Desktop\Мешалка\Мешалка\obj\Debug\Мешалка.csprojResolveAssemblyReference.cache
+C:\Users\Максим\Desktop\Мешалка\Мешалка\obj\Debug\Мешалка.Form1.resources
+C:\Users\Максим\Desktop\Мешалка\Мешалка\obj\Debug\Мешалка.Properties.Resources.resources
+C:\Users\Максим\Desktop\Мешалка\Мешалка\obj\Debug\Мешалка.csproj.GenerateResource.Cache
+D:\IDE\Users\Максим\Desktop\Мешалка\Мешалка\obj\Debug\Мешалка.Form1.resources
+D:\IDE\Users\Максим\Desktop\Мешалка\Мешалка\obj\Debug\Мешалка.Properties.Resources.resources
+D:\IDE\Users\Максим\Desktop\Мешалка\Мешалка\obj\Debug\Мешалка.csproj.GenerateResource.Cache
+D:\IDE\Users\Максим\Desktop\Мешалка\Мешалка\obj\Debug\Мешалка.exe
+D:\IDE\Users\Максим\Desktop\Мешалка\Мешалка\obj\Debug\Мешалка.pdb
+D:\IDE\Users\Максим\Desktop\Мешалка\Мешалка\bin\Debug\Мешалка.exe.config
+D:\IDE\Users\Максим\Desktop\Мешалка\Мешалка\bin\Debug\Мешалка.exe.manifest
+D:\IDE\Users\Максим\Desktop\Мешалка\Мешалка\bin\Debug\Мешалка.application
+D:\IDE\Users\Максим\Desktop\Мешалка\Мешалка\bin\Debug\Мешалка.exe
+D:\IDE\Users\Максим\Desktop\Мешалка\Мешалка\bin\Debug\Мешалка.pdb
+D:\IDE\Users\Максим\Desktop\Мешалка\Мешалка\obj\Debug\Мешалка.exe.manifest
+D:\IDE\Users\Максим\Desktop\Мешалка\Мешалка\obj\Debug\Мешалка.application
+D:\IDE\Users\Максим\Desktop\Мешалка\Мешалка\obj\Debug\Мешалка.csprojResolveAssemblyReference.cache
+E:\Users\Public\Temp\IDE\Users\Максим\Desktop\Мешалка\Мешалка\bin\Debug\Мешалка.exe.config
+E:\Users\Public\Temp\IDE\Users\Максим\Desktop\Мешалка\Мешалка\bin\Debug\Мешалка.exe.manifest
+E:\Users\Public\Temp\IDE\Users\Максим\Desktop\Мешалка\Мешалка\bin\Debug\Мешалка.application
+E:\Users\Public\Temp\IDE\Users\Максим\Desktop\Мешалка\Мешалка\bin\Debug\Мешалка.exe
+E:\Users\Public\Temp\IDE\Users\Максим\Desktop\Мешалка\Мешалка\bin\Debug\Мешалка.pdb
+E:\Users\Public\Temp\IDE\Users\Максим\Desktop\Мешалка\Мешалка\obj\Debug\Мешалка.csprojResolveAssemblyReference.cache
+E:\Users\Public\Temp\IDE\Users\Максим\Desktop\Мешалка\Мешалка\obj\Debug\Мешалка.Form1.resources
+E:\Users\Public\Temp\IDE\Users\Максим\Desktop\Мешалка\Мешалка\obj\Debug\Мешалка.Properties.Resources.resources
+E:\Users\Public\Temp\IDE\Users\Максим\Desktop\Мешалка\Мешалка\obj\Debug\Мешалка.csproj.GenerateResource.Cache
+E:\Users\Public\Temp\IDE\Users\Максим\Desktop\Мешалка\Мешалка\obj\Debug\Мешалка.exe.manifest
+E:\Users\Public\Temp\IDE\Users\Максим\Desktop\Мешалка\Мешалка\obj\Debug\Мешалка.application
+E:\Users\Public\Temp\IDE\Users\Максим\Desktop\Мешалка\Мешалка\obj\Debug\Мешалка.exe
+E:\Users\Public\Temp\IDE\Users\Максим\Desktop\Мешалка\Мешалка\obj\Debug\Мешалка.pdb
+C:\Users\Кагирова\Downloads\meshalka-master\Мешалка\bin\Debug\Мешалка.exe.config
+C:\Users\Кагирова\Downloads\meshalka-master\Мешалка\bin\Debug\Мешалка.exe.manifest
+C:\Users\Кагирова\Downloads\meshalka-master\Мешалка\bin\Debug\Мешалка.application
+C:\Users\Кагирова\Downloads\meshalka-master\Мешалка\bin\Debug\Мешалка.exe
+C:\Users\Кагирова\Downloads\meshalka-master\Мешалка\bin\Debug\Мешалка.pdb
+C:\Users\Кагирова\Downloads\meshalka-master\Мешалка\obj\Debug\Мешалка.csprojAssemblyReference.cache
+C:\Users\Кагирова\Downloads\meshalka-master\Мешалка\obj\Debug\Мешалка.Form1.resources
+C:\Users\Кагирова\Downloads\meshalka-master\Мешалка\obj\Debug\Мешалка.Properties.Resources.resources
+C:\Users\Кагирова\Downloads\meshalka-master\Мешалка\obj\Debug\Мешалка.csproj.GenerateResource.cache
+C:\Users\Кагирова\Downloads\meshalka-master\Мешалка\obj\Debug\Мешалка.csproj.CoreCompileInputs.cache
+C:\Users\Кагирова\Downloads\meshalka-master\Мешалка\obj\Debug\Мешалка.exe.manifest
+C:\Users\Кагирова\Downloads\meshalka-master\Мешалка\obj\Debug\Мешалка.application
+C:\Users\Кагирова\Downloads\meshalka-master\Мешалка\obj\Debug\Мешалка.exe
+C:\Users\Кагирова\Downloads\meshalka-master\Мешалка\obj\Debug\Мешалка.pdb
+D:\учеба\Мешалка\Мешалка\bin\Debug\Мешалка.exe.config
+D:\учеба\Мешалка\Мешалка\bin\Debug\Мешалка.exe.manifest
+D:\учеба\Мешалка\Мешалка\bin\Debug\Мешалка.application
+D:\учеба\Мешалка\Мешалка\bin\Debug\Мешалка.exe
+D:\учеба\Мешалка\Мешалка\bin\Debug\Мешалка.pdb
+D:\учеба\Мешалка\Мешалка\obj\Debug\Мешалка.csprojAssemblyReference.cache
+D:\учеба\Мешалка\Мешалка\obj\Debug\Мешалка.Form1.resources
+D:\учеба\Мешалка\Мешалка\obj\Debug\Мешалка.Properties.Resources.resources
+D:\учеба\Мешалка\Мешалка\obj\Debug\Мешалка.csproj.GenerateResource.cache
+D:\учеба\Мешалка\Мешалка\obj\Debug\Мешалка.csproj.CoreCompileInputs.cache
+D:\учеба\Мешалка\Мешалка\obj\Debug\Мешалка.exe.manifest
+D:\учеба\Мешалка\Мешалка\obj\Debug\Мешалка.application
+D:\учеба\Мешалка\Мешалка\obj\Debug\Мешалка.exe
+D:\учеба\Мешалка\Мешалка\obj\Debug\Мешалка.pdb
